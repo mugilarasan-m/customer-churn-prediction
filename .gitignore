@@ -1,0 +1,12 @@
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+ccp_py_ve/
+AIEP3.13.0/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.DS_Store
