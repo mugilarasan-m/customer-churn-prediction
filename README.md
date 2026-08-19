@@ -2,7 +2,6 @@ Here is a polished, professional, and comprehensive `README.md` file optimized f
 
 ---
 
-```markdown
 # Customer Churn Prediction System
 
 An end-to-end Machine Learning pipeline and interactive web application designed to predict telecom customer churn, evaluate risk tiers, and provide data-driven proactive retention recommendations.
@@ -21,7 +20,7 @@ An end-to-end Machine Learning pipeline and interactive web application designed
 
 ## Project Directory Structure
 
-```text
+
 customer-churn-prediction/
 │
 ├── data/
@@ -43,9 +42,7 @@ customer-churn-prediction/
 ├── requirements.txt                # Project dependencies
 └── README.md                       # Project documentation
 
-```
 
----
 
 ## How to Run the Project from Scratch
 
